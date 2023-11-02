@@ -1,4 +1,6 @@
 const express = require("express");
+const cors = require("cors"); // import cors package
+
 const app = express();
 
 //
@@ -13,6 +15,7 @@ require("./config/database");
 
 // middleware
 app.use(express.json()); // pass income payload
+app.use(cors()); // use cors middleware
 
 // routes
 const userRouters = require("./routes/User");
