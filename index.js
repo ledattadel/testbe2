@@ -15,7 +15,7 @@ require("./config/database");
 
 // middleware
 app.use(express.json()); // pass income payload
-app.use(cors()); // use cors middleware
+app.use(cors({ origin: '*' }));
 
 // routes
 const userRouters = require("./routes/User");
