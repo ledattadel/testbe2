@@ -16,20 +16,12 @@ require("./config/database");
 // middleware
 app.use(express.json()); // pass income payload
 // Tạo một hàm middleware tùy chỉnh để kiểm tra và xử lý CORS
-const customCorsMiddleware = (req, res, next) => {
-  // Kiểm tra xem request đến từ http://localhost:5173 hoặc 12a10.com
-  if (req.get('origin') === 'http://localhost:5173' || req.get('origin') === 'https://12a10.com') {
-    // Cho phép truy cập từ các origin này
-    res.header('Access-Control-Allow-Origin', req.get('origin'));
-  }
-
-  // Tiếp tục xử lý request
-  next();
-};
-
-// Sử dụng customCorsMiddleware trước middleware cors để kiểm tra CORS
-app.use(customCorsMiddleware);
-app.use(cors());
+app.use(
+  cors({
+    origin: ['http://localhost:5173', 'http://12a10.com'], // Danh sách các origin được cho phép
+    credentials: true, // Cho phép sử dụng credentials mode
+  })
+);
 
 // routes
 const userRouters = require("./routes/User");
