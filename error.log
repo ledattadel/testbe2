@@ -1,0 +1,32 @@
+{"level":"error","message":"invalid signature","service":"user-service"}
+{"level":"error","message":"invalid signature","service":"user-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDliZWMwMGIxMjExMmI4NWEyMWI0NSIsImlhdCI6MTY5OTMzOTgxNSwiZXhwIjoxNjk5MzQwNzE1fQ.wbPXILMTG3EsfcVSV06Txwhm0EuLJckAwcZDybYAQvc","service":"auth-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDliZWMwMGIxMjExMmI4NWEyMWI0NSIsImlhdCI6MTY5OTMzOTgxNSwiZXhwIjoxNjk5MzQwNzE1fQ.wbPXILMTG3EsfcVSV06Txwhm0EuLJckAwcZDybYAQvc","service":"auth-service"}
+{"level":"error","message":"gen token","service":"auth-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDliZWMwMGIxMjExMmI4NWEyMWI0NSIsImlhdCI6MTY5OTMzOTgxNSwiZXhwIjoxNjk5MzQwNzE1fQ.wbPXILMTG3EsfcVSV06Txwhm0EuLJckAwcZDybYAQvc","service":"auth-service"}
+{"level":"error","message":"gen token","service":"auth-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDliZWMwMGIxMjExMmI4NWEyMWI0NSIsImlhdCI6MTY5OTMzOTk3NSwiZXhwIjoxNjk5MzQwODc1fQ.hf__aOpeuDWpWzEmh2CorzFjER-7sH04ppJn445ulhs","service":"auth-service"}
+{"level":"error","message":"gen token","service":"auth-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDliZWMwMGIxMjExMmI4NWEyMWI0NSIsImlhdCI6MTY5OTMzOTk3NSwiZXhwIjoxNjk5MzQwODc1fQ.hf__aOpeuDWpWzEmh2CorzFjER-7sH04ppJn445ulhs","service":"auth-service"}
+{"level":"error","message":"gen token","service":"auth-service"}
+{"level":"error","message":"invalid signature","service":"auth-service"}
+{"level":"error","message":"rf_token","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
+{"level":"error","message":"rf_tokenundefined","service":"authCtrl"}
